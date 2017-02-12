@@ -11,7 +11,7 @@ This is server site code which is wriiten in python which takes you to a great e
 # Want to add your favourite Movies Allright then..
 1) Download Python which is freely available from  <br>
    For Windows--><a href="https://www.python.org/downloads/">Click Here</a> <br>
-   For Mac --> <a href="https://www.python.org/downloads/mac-osx/">Click Here</a><br>    
+   For Mac --> <a href="https://www.python.org/downloads/mac-osx/">Click Here</a>    
 2) Open IDLE (python GUI).<br>
 3) Open and edit entertainment.py <br>
 4) Create Your Movie Object like
@@ -23,4 +23,4 @@ This is server site code which is wriiten in python which takes you to a great e
   movies = [ object_name1 , object_name2 ]..<br>
 6) Save the file and run it by using F5<br>
 7) Your movie trailer website file will be genrated in html format.<br>
-<br>That's IT!!!!!!!!<br>
+That's IT!!!!!!!!<br>
